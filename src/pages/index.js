@@ -274,10 +274,10 @@ export default (() => {
 			transition={"--opacityOut"}
 			quarkly-title={"Badge"}
 			text-decoration-line={"initial"}
-			href={"https://wetar.org/"}
+			href={"https://quarkly.io/"}
 			target={"_blank"}
 		>
-			Made by wetar
+			Made on Quarkly
 		</Link>
 	</Theme>;
 });
